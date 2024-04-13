@@ -8,9 +8,8 @@
     
 }
 
-.warp-frame header h1 {
-   font-family: "gamestation";
-   font-size: 10rem;
+.warp-frame header img {
+   margin-top: 50px;
 }
 
 .bth-home {
